@@ -24,6 +24,8 @@ This is a Django exercise for WORK JAPAN that requires you to build a simple bac
 
 - Write test cases.
 - Use Django REST framework for creating APIs.
+- Use Python 3.
+- Use latest stable versions of the packages.
 
 <br>
 
