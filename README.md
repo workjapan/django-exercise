@@ -19,6 +19,7 @@ This is a Django exercise for WORK JAPAN that requires you to build a simple bac
   - To retrieve address of a company by providing company name.
   - To list all the companies in a certain city.
   - To retrieve all the `Postal Code`s which has more than `X` number of companies. `X` to be supplied to the API as URL parameter.
+- Follow *PEP 8 -- Style Guide for Python Code*.
 
 **Bonus Points:**
 
